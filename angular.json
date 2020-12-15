@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "coolApp"
+  "defaultProject": "coolApp",
+  "cli": {
+    "analytics": false
+  }
 }
